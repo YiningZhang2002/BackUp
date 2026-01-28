@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="69" width="569" x="260" y="545" as="geometry" />
+        </mxCell>
         <mxCell id="oig0jnd9JJhLx6ScAqAp-3" edge="1" parent="1" source="oig0jnd9JJhLx6ScAqAp-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="oig0jnd9JJhLx6ScAqAp-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -163,11 +166,17 @@
         <mxCell id="kJG7SMvcKvFOCGsROZRi-32" edge="1" parent="1" source="kJG7SMvcKvFOCGsROZRi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kJG7SMvcKvFOCGsROZRi-31" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;LLM Reasoning&lt;/b&gt;" vertex="1">
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-35" edge="1" parent="1" source="kJG7SMvcKvFOCGsROZRi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kJG7SMvcKvFOCGsROZRi-34" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;LLM Reasoning&lt;/b&gt;" vertex="1">
           <mxGeometry height="35" width="124" x="490" y="562" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Decision/Search&lt;/b&gt;" vertex="1">
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;Decision/Search&lt;/b&gt;" vertex="1">
           <mxGeometry height="35" width="124" x="694" y="562" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Memory&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="124" x="490" y="639" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
