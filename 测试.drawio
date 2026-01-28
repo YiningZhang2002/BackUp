@@ -175,8 +175,17 @@
         <mxCell id="kJG7SMvcKvFOCGsROZRi-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;Decision/Search&lt;/b&gt;" vertex="1">
           <mxGeometry height="35" width="124" x="694" y="562" as="geometry" />
         </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-38" edge="1" parent="1" source="kJG7SMvcKvFOCGsROZRi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kJG7SMvcKvFOCGsROZRi-37" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Memory&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="124" x="490" y="639" as="geometry" />
+          <mxGeometry height="35" width="124" x="490" y="663" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Experience&lt;div&gt;Reasoning Trace&lt;/div&gt;&lt;div&gt;Latent&lt;/div&gt;&lt;div&gt;Evaluation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90.5" width="120" x="640" y="638" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Pruning / Selection&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="124" x="490" y="778" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
