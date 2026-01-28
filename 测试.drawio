@@ -178,14 +178,38 @@
         <mxCell id="kJG7SMvcKvFOCGsROZRi-38" edge="1" parent="1" source="kJG7SMvcKvFOCGsROZRi-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kJG7SMvcKvFOCGsROZRi-37" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Memory&lt;/b&gt;" vertex="1">
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;Memory&lt;/b&gt;" vertex="1">
           <mxGeometry height="35" width="124" x="490" y="663" as="geometry" />
         </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Experience&lt;div&gt;Reasoning Trace&lt;/div&gt;&lt;div&gt;Latent&lt;/div&gt;&lt;div&gt;Evaluation&lt;/div&gt;" vertex="1">
           <mxGeometry height="90.5" width="120" x="640" y="638" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;Pruning / Selection&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="124" x="490" y="778" as="geometry" />
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;Pruning / Selection&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="150" x="477" y="766" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;总体目标&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="57" x="1471" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;构建一种基于 Memory 的 training-free 强化学习框架&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="404" x="1537" y="137" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;具体目标&lt;/b&gt;" vertex="1">
+          <mxGeometry height="183" width="56" x="1472" y="183" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;科学问题&lt;/b&gt;" vertex="1">
+          <mxGeometry height="125.5" width="58" x="1470" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;设计可泛化的 Memory 构造与管理机制&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="404" x="1537" y="186" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;实现无 reward 条件下的在线进化&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="404" x="1537" y="234" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;分析 Memory + LLM 剪枝的作用机理&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="404" x="1537" y="282" as="geometry" />
+        </mxCell>
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;在多个真实应用场景中验证有效性&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="404" x="1537" y="328.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
