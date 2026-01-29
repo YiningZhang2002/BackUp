@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="1246" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,7 +190,7 @@
         <mxCell id="kJG7SMvcKvFOCGsROZRi-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;总体目标&lt;/b&gt;" vertex="1">
           <mxGeometry height="35" width="57" x="1471" y="137" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;构建一种基于 Memory 的 training-free 强化学习框架&lt;/b&gt;" vertex="1">
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;构建一种基于 Memory 的 training-free 框架&lt;/b&gt;" vertex="1">
           <mxGeometry height="35" width="404" x="1537" y="137" as="geometry" />
         </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;具体目标&lt;/b&gt;" vertex="1">
@@ -219,6 +219,9 @@
         </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;在多个真实应用场景中验证有效性&lt;/b&gt;" vertex="1">
           <mxGeometry height="35" width="404" x="1537" y="471.62" as="geometry" />
+        </mxCell>
+        <mxCell id="-xtAGxlqIS7EA0yi0QUx-1" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="611.1818389892578" y="1011.4587326049805" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
