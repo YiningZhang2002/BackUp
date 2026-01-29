@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="1244" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="858" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,37 +125,22 @@
           <mxGeometry height="60" width="729" x="416" y="189" as="geometry" />
         </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;典型任务&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="146" width="30" x="418" y="267" as="geometry" />
+          <mxGeometry height="201" width="30" x="418" y="267" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;复杂决策与长期规划&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="122" x="456" y="269" as="geometry" />
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;科学论文评审&lt;/b&gt;&lt;div&gt;&lt;b&gt;（Scientific Paper Reviewing）&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="265" x="456" y="269" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;探索与搜索&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="127" x="593" y="269" as="geometry" />
-        </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;自动评估与判断&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="122" x="456" y="323.5" as="geometry" />
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;Web 信息检索与综合&lt;/b&gt;&lt;div&gt;&lt;b&gt;（Web-based Information Seeking）&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="266" x="456" y="323.5" as="geometry" />
         </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;现实特点&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="144.5" width="32" x="737.5" y="273.5" as="geometry" />
+          <mxGeometry height="195.5" width="32" x="746" y="272.5" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;p style=&quot;font-family: DengXian; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;思源黑体 Light&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;数据量大、交互频繁&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="35" width="352" x="789.5" y="273.5" as="geometry" />
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;p style=&quot;font-family: DengXian; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;思源黑体 Light&amp;quot;;&quot;&gt;&lt;font&gt;&lt;b style=&quot;&quot;&gt;数据量大、交互频繁&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="231.5" x="789.5" y="273.5" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;p style=&quot;font-family: DengXian; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;思源黑体 Light&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;任务目标复杂、难以形式化&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="35" width="355" x="788" y="323.5" as="geometry" />
-        </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;p style=&quot;font-family: DengXian; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;思源黑体 Light&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;用户反馈弱，缺乏显式 reward&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="35" width="357" x="788" y="377" as="geometry" />
-        </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;多智能体协作与博弈&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="128" x="593" y="323.5" as="geometry" />
-        </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;知识获取与整合&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="124" x="456" y="377" as="geometry" />
-        </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;自我反思与策略调整&lt;/b&gt;" vertex="1">
-          <mxGeometry height="35" width="126" x="595" y="378" as="geometry" />
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;font&gt;&lt;b&gt;工具增强问题求解&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;（Tool-augmented Problem Solving）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="269" x="456" y="377" as="geometry" />
         </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-30" edge="1" parent="1" source="kJG7SMvcKvFOCGsROZRi-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kJG7SMvcKvFOCGsROZRi-29" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -228,6 +213,12 @@
         </mxCell>
         <mxCell id="-xtAGxlqIS7EA0yi0QUx-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;div style=&quot;&quot;&gt;&lt;b&gt;科学问题3：&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;在多个真实应用场景中验证有效性&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="137" width="88" x="1611" y="346" as="geometry" />
+        </mxCell>
+        <mxCell id="0RKZ1I-8S1gP4D_y1_Vj-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;代码生成与算子优化&lt;br&gt;（Code generation and operator optimization）&lt;/b&gt;" vertex="1">
+          <mxGeometry height="35" width="268" x="456" y="428" as="geometry" />
+        </mxCell>
+        <mxCell id="0RKZ1I-8S1gP4D_y1_Vj-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;div&gt;&lt;p style=&quot;font-family: DengXian; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;思源黑体 Light&amp;quot;;&quot;&gt;&lt;font&gt;&lt;b style=&quot;&quot;&gt;决策跨度长&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="35" width="231.5" x="789.5" y="323.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
