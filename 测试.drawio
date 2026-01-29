@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.6">
   <diagram name="第 1 页" id="jlVK5qfQyr_egqlrKWcN">
-    <mxGraphModel dx="794" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1244" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="oig0jnd9JJhLx6ScAqAp-49" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;公理5&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="1680.5" y="860" as="geometry" />
         </mxCell>
-        <mxCell id="kJG7SMvcKvFOCGsROZRi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;div&gt;&lt;p style=&quot;font-size: 16pt; font-family: DengXian; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-size: 18pt; font-family: &amp;quot;思源黑体 Light&amp;quot;; font-weight: bold;&quot;&gt;基于大模型的自主智能体&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="kJG7SMvcKvFOCGsROZRi-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;&lt;b&gt;开放式、长期交互决策任务&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="729" x="416" y="189" as="geometry" />
         </mxCell>
         <mxCell id="kJG7SMvcKvFOCGsROZRi-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;典型任务&lt;/font&gt;&lt;/b&gt;" vertex="1">
